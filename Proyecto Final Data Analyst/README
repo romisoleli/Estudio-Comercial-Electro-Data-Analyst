@@ -1,1 +1,23 @@
+#PROYECTO FINAL: DATA ANALYST
 
+Análisis de ventas de electrodomésticos en Buenos Aires 
+
+Resumen del Proyecto
+
+Este proyecto final es un  análisis de datos descriptivo centrado en el histórico de ventas de electrodomésticos en Buenos Aires, Argentina.
+El objetivo principal es generar indicadores estadísticos y visualizaciones para ayudar a los usuarios a tomar decisiones con un alto grado de éxito.
+
+Metodología y Herramientas
+Para este análisis se siguió un proceso estructurado, utilizando las siguientes herramientas:
+
+- Dataset: Se utilizó un histórico de ventas del rubro "Electrodomésticos", extraído directamente del sitio web del INDEC.
+
+- Modelo ETL: Se aplicó un proceso de Extracción, Transformación y Carga (ETL) para preparar los datos. Esto incluyó la división de la columna de tiempo y la eliminación de valores nulos.
+
+- Análisis y Consultas: Se utilizó SQL Server para realizar consultas y resolver diferentes insights, como la cantidad total y máxima de ventas de ciertos artículos.
+
+- Visualización (Dashboard): Los datos procesados se cargaron en Power BI para construir un dashboard interactivo que agrupa los productos por categorías y muestra el rendimiento de ventas a lo largo del tiempo. Para los cálculos se utilizó el lenguaje 
+DAX, creando medidas para identificar la categoría más vendida, el total de ventas y la media de venta anual.
+
+Autores
+Integrantes: Sosa, Yamila; Batistessa, Carolina; Elizalde, Romina.
